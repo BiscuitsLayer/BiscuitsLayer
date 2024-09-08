@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working as a backend developer at ScaleGenAI
 - 🌱 I’m a 6'th year student of **MIPT DIHT** 🧡 and 2'nd year student of **YSDA** ⚠️🔴⬛️
-- 📃 Find more about my skills, experience and projects in CV
+- 📃 Find more about my skills, experience and projects in [CV](https://github.com/BiscuitsLayer/BiscuitsLayer/blob/main/CV.pdf)
 
 <!--- https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file --->
 
