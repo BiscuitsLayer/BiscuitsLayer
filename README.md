@@ -1,6 +1,6 @@
 ## Hi there, I'm Sergey 👋
 
-- 🔭 I’m currently working as a backend developer at ScaleGenAI
+- 🔭 I’m working as a Simulation Engineer for Self-Driving Cars at X-Labs AI
 - 🌱 I’m a 6'th year student of **MIPT DIHT** 🧡 and 2'nd year student of **YSDA** ⚠️🔴⬛️
 - 📃 Find more about my skills, experience and projects in [CV](https://github.com/BiscuitsLayer/BiscuitsLayer/blob/main/CV.pdf)
 
