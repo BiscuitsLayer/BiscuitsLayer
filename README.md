@@ -1,6 +1,6 @@
 ## Hi there, I'm Sergey 👋
 
-- 🔭 I’m working as a Computer Vision Engineer at UBO Group
+- 🔭 I’m working as a Computer Vision Engineer / Backend Developer at ReML
 - 🌱 I’m a 6'th year student of **MIPT DIHT** 🧡 and 2'nd year student of **YSDA** ⚠️🔴⬛️
 - 📃 Find more about my skills, experience and projects in [CV](https://github.com/BiscuitsLayer/BiscuitsLayer/blob/main/CV.pdf)
 
