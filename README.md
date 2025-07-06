@@ -1,7 +1,7 @@
 ## Hi there, I'm Sergey 👋
 
-- 🔭 I’m working as a Computer Vision Engineer / Backend Developer at ReML
-- 🌱 I’m a 6'th year student of **MIPT DIHT** 🧡 and 2'nd year student of **YSDA** ⚠️🔴⬛️
+- 🔭 I’m working as a Senior Backend Developer at Beagle in Belgrade, Serbia
+- 🌱 I’m a graduate of **MIPT DIHT** 🧡 and **YSDA** ⚠️🔴⬛️
 - 📃 Find more about my skills, experience and projects in [CV](https://github.com/BiscuitsLayer/BiscuitsLayer/blob/main/CV.pdf)
 
 <!--- https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file --->
