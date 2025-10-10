@@ -1,6 +1,6 @@
 ## Hi there, I'm Sergey 👋
 
-- 🔭 I’m working as a Senior Backend Developer at Beagle in Belgrade, Serbia
+- 🔭 I’m working as a Senior Backend Developer at Beagle in Barcelona, Spain
 - 🌱 I’m a graduate of **MIPT DIHT** 🧡 and **YSDA** ⚠️🔴⬛️
 - 📃 Find more about my skills, experience and projects in [CV](https://github.com/BiscuitsLayer/BiscuitsLayer/blob/main/CV.pdf)
 
